@@ -1,0 +1,28 @@
+{
+  "name": "fluent-emoji-optimized",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [
+    "emoji",
+    "fluent",
+    "animated"
+  ],
+  "homepage": "https://github.com/laurentlahmy/fluent-emoji-optimized#readme",
+  "bugs": {
+    "url": "https://github.com/laurentlahmy/fluent-emoji-optimized/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurentlahmy/fluent-emoji-optimized.git"
+  },
+  "license": "ISC",
+  "author": "Laurent LAHMY",
+  "type": "commonjs",
+  "main": "assets",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
